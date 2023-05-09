@@ -5,7 +5,6 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neweracy&langs_count=5&theme=tokyonight)]()
 
 
-![Visitor Count](https://profile-counter.glitch.me/neweracy/count.svg)
 
 
 

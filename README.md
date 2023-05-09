@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![Neweracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=neweracy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neweracy&langs_count=5&theme=tokyonight)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neweracy&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neweracy&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 

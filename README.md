@@ -1,5 +1,8 @@
+<div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=500&width=435&lines=Hi%F0%9F%91%8B;I%E2%80%99m+a+frontend%2Freact+native+dev+;+There%E2%80%99s+a+lot+more+I+do+actually;I%E2%80%99m+a+student+engineer+from+Ghana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3998&pause=500&width=435&lines=Hi%F0%9F%91%8B;I%E2%80%99m+a+frontend%2Freact+native+dev+;+There%E2%80%99s+a+lot+more+I+do+actually;I%E2%80%99m+a+student+engineer+from+Ghana)](https://git.io/typing-svg)
+  
+</div>
 
 <div align="center">
 

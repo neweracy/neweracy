@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3998&pause=500&width=435&lines=Hi%F0%9F%91%8B;I%E2%80%99m+a+frontend+developer+from+Ghana;Building+beautiful+experiences+with+React+and+friends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&lines=Hi%F0%9F%91%8B;I%E2%80%99m+a+frontend+developer+from+Ghana;Building+beautiful+experiences+with+React+and+friends)](https://git.io/typing-svg)
 
 <img src="kk.gif" alt="Coding Gif" width="300"/>
   
@@ -15,6 +15,12 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Parse_Server-000000?style=for-the-badge&logo=parse&logoColor=white" alt="Parse Server"/>
+    <img src="https://img.shields.io/badge/DaisyUI-3B82F6?style=for-the-badge" alt="DaisyUI"/>
   </p>
 
   <h2>📊 GitHub Stats 📊</h2>

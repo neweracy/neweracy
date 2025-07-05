@@ -37,7 +37,7 @@
 
   <h2>⚡ Fun Facts ⚡</h2>
   <ul>
-    <li>Me sometime 🤧</li>
+    <li>Me sometimes 🤧</li>
     <li><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Coding Gif" width="300"/></li>
   </ul>
 

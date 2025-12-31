@@ -24,9 +24,8 @@
   </p>
 
   <h2>📊 GitHub Stats 📊</h2>
-
+  
 [![Neweracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=neweracy&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
   <h2>🔥 GitHub Streak 🔥</h2>
   
@@ -44,26 +43,22 @@
 
   <h2>💬 Connect with Me 💬</h2>
   <p>
-    <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/quarteyansahofei/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:ansahkwk1@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://discord.com/users/yourdiscord" target="_blank">
+    <a href="https://discord.com/channels/@me/1366751719488360548" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="https://www.instagram.com/kwaku_ansah_/?hl=en" target="_blank">
+    <a href="https://www.instagram.com/kwaku_ansah_" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=neweracy&color=blue)
-
-
-
-
 
 <!--
 **neweracy/neweracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
